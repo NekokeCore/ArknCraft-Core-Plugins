@@ -1,0 +1,5 @@
+<root>
+    <item name='org.bukkit.event.player.PlayerDropItemEvent'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>

@@ -1,0 +1,20 @@
+name: ArknCraft-Core
+main: net.emtips.mfp.main
+version:  1.3
+
+commands:
+  ac:
+    description: 用它来雷电打击别人
+    usage: /<command>
+    permission: net.emtips.mfp.test.ac1
+    permission-message: 您没有权限net.emtips.mfp.test.ac1去那样做！
+  ac2:
+    description: 这是个初始测试指令
+    usage: /<command>
+    permission: net.emtips.mfp.test.ac2
+    permission-message: 您没有权限net.emtips.mfp.test.ac2去那样做！
+  ac3:
+    description: 打开GUI！
+    usage: /<command>
+    permission: net.emtips.mfp.test.ac3
+    permission-message: 您没有权限net.emtips.mfp.test.ac3去那样做！
